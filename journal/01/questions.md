@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | We use Git to track changes made to our files, and then upload them to the web. this ensures that our code is always saved, and we don't need to worry about losing it. it basically stores our code for us |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | make directory |
@@ -28,13 +28,13 @@
     > | ANSWER HERE |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | wireframing keeps the concept user-focused, it clarifies and defines website features, and it is a quick and cheap way to create |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
     > | ANSWER HERE |
 
-10. Define the display `:flex property:`
-    > | ANSWER HERE |
+10. Define the display :flex property:
+    > | flex property sets the flexible length on certain items |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | box sizing |
