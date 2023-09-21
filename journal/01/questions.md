@@ -6,13 +6,14 @@
     > | make directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | it is a keyword added to a selector which specifies the state of the selected element
+    > :hover, :active, etc |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | if two or more css rules point to the same element, it chooses the one with highest specificity value, and that style will be applied. this is helpful because it makes the highest valued rule be the one that is applied, and makes the most relevant choice.|
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | this will override important style declarations made earlier, and overrall messes up the flow of css |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -25,16 +26,16 @@
     > | selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | good design plays a huge role in web traffic and overall accesibility. vistitors will be more likely to visit more often and stay longer. so it will increase web traffic, give a warm and inviting feel, and shows off a companys professionalism they strive to achieve|
 
 08. What is the purpose of ***wireframing***?
     > | wireframing keeps the concept user-focused, it clarifies and defines website features, and it is a quick and cheap way to create |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | for sure. although they may require extra time and effort, they give us a good idea of what our site will look like prior to getting into the code. This prepares our mind for what we can expect. It also can give clients an idea of what we are working with and towards |
 
 10. Define the display :flex property:
-    > | flex property sets the flexible length on certain items |
+    > | flex property sets the flexible length on certain item, allowing them to flex |
 
 11. What `CSS` properties affect the size of a box model?
     > | box sizing |
