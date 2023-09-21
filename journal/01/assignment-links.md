@@ -3,4 +3,4 @@
 * **[Repo](https://github.com/LauraAlspaugh/fs-journal)**
 * **[Repo](https://github.com/LauraAlspaugh/Cool-Site)**
 * **[Repo](https://github.com/LauraAlspaugh/Royal-Breakfast)**
-* **[Repo](https://github.com/LauraAlspaugh/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/LauraAlspaugh/Partner-Clone)**
