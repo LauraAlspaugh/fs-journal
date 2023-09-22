@@ -26,7 +26,7 @@
     > | selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | good design plays a huge role in web traffic and overall accesibility. Good design should include readability, it should be mobile-friendly,  vistitors will be more likely to visit more often and stay longer. so it will increase web traffic, give a warm and inviting feel, and shows off a companys professionalism they strive to achieve|
+    > | good design plays a huge role in web traffic and overall accesibility. Good design should include readability, mobile-friendliness, good content layout, and a color-scheme that is user-friendly. vistitors will then be more likely to visit more often and stay longer. so it will increase web traffic, give a warm and inviting feel, and show off a companys professionalism they strive to achieve|
 
 08. What is the purpose of ***wireframing***?
     > | wireframing keeps the concept user-focused, it clarifies and defines website features, and it is a quick and cheap way to create |
@@ -38,4 +38,4 @@
     > | flex property sets the flexible length on certain item, allowing them to flex |
 
 11. What `CSS` properties affect the size of a box model?
-    > | borders, margin, padding, content|
+    > | borders, margin, padding, content. all of which are box-sizing|
