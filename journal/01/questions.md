@@ -38,4 +38,4 @@
     > | flex property sets the flexible length on certain item, allowing them to flex |
 
 11. What `CSS` properties affect the size of a box model?
-    > | box sizing |
+    > | borders, margin, padding, content|
