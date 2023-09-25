@@ -1,7 +1,7 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > |let, var|
+    > |let, var, const|
 
 02. What is the definition of a function?
 
