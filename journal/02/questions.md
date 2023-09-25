@@ -54,4 +54,5 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for( i = 0; i > 100; i ++){
+    > console.log(i)|
