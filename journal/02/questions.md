@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | parameters are used when defining a function, arguments  |
+    > | parameters are used when defining a function, they are arguments are the values the function receives.  |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
