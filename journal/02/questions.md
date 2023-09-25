@@ -5,7 +5,7 @@
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | it is a subprogram design to perform a certain task. Functions return something, and if not value is assigned, it will say undefined. |
 
 03. What are the `SOLID` principles?
 
