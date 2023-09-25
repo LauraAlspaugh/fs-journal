@@ -46,11 +46,11 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | setting breakpoints |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | they are stored differently in memory|
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
