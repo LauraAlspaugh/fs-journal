@@ -38,7 +38,9 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | if( 10%2 == 0){
+    > console.log('success')
+    > }|
 
 07. What is the main difference between `parameters` and `arguments`?
 
