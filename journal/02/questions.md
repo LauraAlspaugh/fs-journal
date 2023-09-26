@@ -5,7 +5,7 @@
 
 02. What is the definition of a function?
 
-    > | it is a subprogram design to perform a certain task. Functions return something, and if not return value is assigned, it will say undefined. Functions are executed when they are called.  |
+    > | it is a subprogram designed to perform a certain task. Functions return something, and if not return value is assigned, it will say undefined. Functions are executed when they are called.  |
 
 03. What are the `SOLID` principles?
 
