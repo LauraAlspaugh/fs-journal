@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | single responsibility, open-closed, liskov substitution, interface segregation, and dependency inversion|
 
 04. Given this array: How could you remove the `pineapple`?
 
