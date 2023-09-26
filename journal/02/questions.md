@@ -5,7 +5,7 @@
 
 02. What is the definition of a function?
 
-    > | it is a subprogram designed to perform a certain task. Functions return something, and if not return value is assigned, it will say undefined. Functions are executed when they are called.  |
+    > | it is a subprogram designed to perform a certain task. Functions return something, and if no return value is assigned, it will say undefined. Functions are executed when they are called.  |
 
 03. What are the `SOLID` principles?
 
@@ -48,7 +48,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | setting breakpoints |
+    > | setting breakpoints, using your developer tools|
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
