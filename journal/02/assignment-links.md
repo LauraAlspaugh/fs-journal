@@ -2,5 +2,5 @@
 
 * **[Repo](https://github.com/LauraAlspaugh/Week-Two)**
 * **[Repo](https://github.com/LauraAlspaugh/Week-Two/tree/main/Swarm-Site)**
-* **[Repo](https://github.com/LauraAlspaugh/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/LauraAlspaugh/Ice-Cream-Parlor)**
 * **[Repo](https://github.com/LauraAlspaugh/<ASSIGNMENT_REPO>)**
