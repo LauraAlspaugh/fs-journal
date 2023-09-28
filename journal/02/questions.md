@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | delete array[2];|
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -56,5 +56,5 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > for( i = 0; i > 100; i ++){
+    > for( i = 0; i <= 100; i ++){
     > console.log(i)|
