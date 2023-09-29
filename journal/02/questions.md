@@ -34,7 +34,7 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > |let newArray = you.concat(them); |
 
 06. Give an example of a JavaScript `Conditional`:
 
