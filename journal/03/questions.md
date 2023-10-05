@@ -29,12 +29,12 @@
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > | the controller is responsible for controlling the way the user interacts with the MVC application. the controller contains the flow logic |
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > | the service retrieves and creates your model from various data sources, and updates values |
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > | the model is responsible for data logic in the application, and also storing and retrieving data from back end sources |
