@@ -25,7 +25,7 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | it simplifies the testing process |
+  > | it simplifies the testing process, it has the ability to provide multiple views, and it is overall an improved developement process |
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
