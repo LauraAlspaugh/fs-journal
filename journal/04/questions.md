@@ -5,11 +5,11 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > |It is a function in a computer program that 'listens' or waits for an event to occur. Then it will run code. |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | This stands for Representational State Transfer. It signifies how an API should work.  |
 
 04. What is a callback / higher order function?
 
@@ -21,24 +21,24 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | request line, header, and body. We use methods like GET, DELETE, and POST.  |
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > | API stands for Application Programming Interface. |
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | You can use the 'await' keyword before a call to the function.|
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > |It hides data members and data functions associated with a certain class or object. Basically it prevents users and clients from seeing certain data.  |
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | 200 OK |
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | the 400 error is a Bad Request. This means the server cannot and will not process the request due to a client error. |
