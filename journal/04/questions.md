@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | Asynchronous code does not depend on one task being done before moving to the next, Synchronous code depends on a task being complete before it can move to the next task. It can only perform one thing at a time.  |
 
 02. What is an event listener?
 
@@ -13,11 +13,11 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > |It is a piece of code that is passed as an argument to other code, which in turn is expected to call back that argument |
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > | A promise is an object that represents either completion or failure of an asynchronous operation. 'Try' will result in a resolved promise, 'catch' is used when the promise fails. We use that 'catch' method to capture the error when it fails.  |
 
 06. Name three processes used to make requests over `HTTP`?
 
