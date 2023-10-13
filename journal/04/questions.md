@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | You can use the 'await' keyword before a call to the function.|
+  > | You can use the 'await' keyword before a call to the function. We use this along with the 'async' keyword.|
 
 09. What is the purpose of encapsulation in programming?
 
