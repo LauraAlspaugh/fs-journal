@@ -17,7 +17,7 @@
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | ANSWER HERE |
+  > | Synchronous, Asyncronous|
 
 06. What are the three types of data relationships? Provide an example of each.
 
@@ -37,4 +37,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > |A Virtual Property is an additional field for a given model. Its value can be set manually or automatically. For example, a person's full name could be a virtual property.|
