@@ -21,15 +21,15 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | One to One, One to Many, and Many to Many.  |
+  > | One to One (Author to Address), One to Many (Blog to Comments), and Many to Many (Books to Authors).  |
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > |Middleware is Software and cloud services that provide common services to applications, making them more efficent. It acts as a connective tissue between applications, data, and users. |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | CI, CD |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
