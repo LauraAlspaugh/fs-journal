@@ -33,7 +33,7 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | We could use the Get Call operation. We could specify the query params and we could set the query parameter property tag to 'winter'. Then we could use the 'get' request to make a request to the url.  |
 
 10. What is a ***virtual property***?
 
