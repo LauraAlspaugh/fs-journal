@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > |They provide a specified amount of time to complete an action before that action transitions to the next state.  |
+  > |Lifecycle hooks are a window into how the library you are using really works. They allow you to know when your component is created, addded, updated, and destroyed. They provide a specified amount of time to complete an action before that action transitions to the next state.|
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
