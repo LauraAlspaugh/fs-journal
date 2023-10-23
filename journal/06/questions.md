@@ -33,7 +33,7 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | they are custom attributes that we register on our Vue projects. They are used to pass data from a parent to child component. |
+  > | they are custom attributes that we register on our Vue projects. They are used to pass data from a parent to child component. For example we have a template tag with CAMERA in it. We use prop tags such as image and name to define that camera. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
