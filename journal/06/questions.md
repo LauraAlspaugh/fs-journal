@@ -21,20 +21,20 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > |the navbar.vue component |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | The appstate is global, and the component state is local|
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > |they act as pieces of reuasable and testable code that you can use all across your application |
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | they are custom attributes that we register on our Vue projects. They are used to pass data from a parent to child component. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | Watchers, or calling the watch function |
