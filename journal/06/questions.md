@@ -29,7 +29,7 @@
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > |they act as pieces of reuasable and testable code that you can use all across your application |
+  > |they act as pieces of reuasable and testable code that you can use all across your application, they work similarily to the services in the MVC template |
 
 09. What are ***props*** and how are they used? Provide an example
 
