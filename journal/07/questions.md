@@ -2,7 +2,7 @@
 
 1. Describe the two ways to bind Data in Vue?
 
-  > | ANSWER HERE |
+  > | using the V-model, and the V-bind |
 
 2. The `SPA` acronym stands for what?
 
@@ -30,7 +30,7 @@
 
 8. What is the purpose of the `key` attribute when using `v-for` on an element?
 
-  > | ANSWER HERE |
+  > | This helps Vue to be able to tell the elements apart properly. |
 
 9. What is the `<slot>` element and what is it used for?
 
