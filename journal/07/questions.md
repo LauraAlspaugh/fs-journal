@@ -18,7 +18,7 @@
 
 5. What is the `v-model` attribute in Vue for, and when might you use it?
 
-  > | It creates a link between the input value attribute and the data value in the Vue instance.  |
+  > | It creates a link between the input value attribute and the data value in the Vue instance. We would use it in a form with our editables. |
 
 6. What is the package.json file used for?
 
