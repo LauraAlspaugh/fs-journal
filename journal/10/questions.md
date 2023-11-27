@@ -1,15 +1,15 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > | It organizes code into logical groups  |
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > |  a class describes the behavior of an object, an interface contains the behavior defined and assigned by the class |
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > | the void method |
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
