@@ -41,7 +41,12 @@
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > |CREATE TABLE IN CHARATERS
+> id INT NOT NULL COMMENTS "this is the id of the character"
+> name CHAR(255) NOT NULL COMMENTS "this is the name of the character"
+> age INT NOT NULL COMMENTS "this is the age of the character"
+> description CHAR(255) NOT NULL COMMENTS "this is the description of the character"
+> |
 
 10. In SQL how can you query more than a single table? Provide an example.
 
