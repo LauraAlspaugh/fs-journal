@@ -37,7 +37,7 @@
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
-  > | columns are vertical information, and hold a list of values from the same field. rows are horizontal information in the table |
+  > | columns are vertical information and describe the information, and hold a list of named values from the same field. rows are horizontal information in the table, and are the actual value.  |
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
