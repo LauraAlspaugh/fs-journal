@@ -45,4 +45,4 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > |We use the join operator, which joins the tables together.|
