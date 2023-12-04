@@ -47,4 +47,11 @@
 
   ```
 
-  > | ANSWER HERE |
+  > | @"SELECT pat.*,
+> doc.*,
+> acc.*
+> FROM patients pat
+> JOIN doctors doc ON pat.doctorId = doc.id
+> JOIN accounts acc ON acc.id = doc.creatorId
+> WHERE pat.accountId = @userId;";
+> |
