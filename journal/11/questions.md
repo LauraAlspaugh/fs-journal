@@ -47,11 +47,18 @@
 
   ```
 
-  > | @"SELECT pat.*,
+  > | string sql = @"SELECT pat.*,
 > doc.*,
 > acc.*
 > FROM patients pat
 > JOIN doctors doc ON pat.doctorId = doc.id
 > JOIN accounts acc ON acc.id = doc.creatorId
 > WHERE pat.accountId = @userId;";
+> List <Patient> patient = _db.Query<Patient, Account, Patient> (sql, (patient, account)
+=> {
+> patient.Creator = account
+> return patient
+> }, new {userId}) .ToList();
+> return patient 
+> 
 > |
